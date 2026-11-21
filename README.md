@@ -5,7 +5,7 @@ Code, stored results and table/figure generators for
 > V. Lakmini, M. Premarathna, D. Vimalajeewa, F. Ruggeri and B. Vidakovic,
 > *GRIT: CDF-Gated Thresholding, Its Structural Limits, and Risk-Based Gate Design* (2026).
 
-The repository contains the code and saved numerical results for GRIT07.
+The repository contains the code and saved numerical results for GRIT.
 The table generators reproduce the printed numerical entries in all eight
 simulation and numerical-study tables. The figures are regenerated from the
 gate formulas, numerical integration and saved Bayes-risk results.
