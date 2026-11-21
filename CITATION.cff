@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "GRIT: CDF-Gated Thresholding, Its Structural Limits, and Risk-Based Gate Design (code and results)"
+authors:
+  - family-names: Lakmini
+    given-names: Vijini
+  - family-names: Premarathna
+    given-names: Malith
+  - family-names: Vimalajeewa
+    given-names: Dixon
+  - family-names: Ruggeri
+    given-names: Fabrizio
+  - family-names: Vidakovic
+    given-names: Brani
+date-released: 2026-11-20
+license: MIT

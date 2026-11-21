@@ -1,0 +1,2 @@
+*.sh text eol=lf
+jobs.txt text eol=lf
