@@ -1,0 +1,7 @@
+rhoX=0.5 lasso    est 1.824 (0.048)  PE 3.858  FP 31.30 FN 0.00 size 41.3  max sweeps 406 capped 0  [60s]
+rhoX=0.5 mcp      est 0.284 (0.010)  PE 2.533  FP 1.70 FN 0.00 size 11.7  max sweeps 1000 capped 6  [271s]
+rhoX=0.5 scad     est 0.286 (0.008)  PE 2.535  FP 3.55 FN 0.00 size 13.6  max sweeps 1000 capped 3  [196s]
+rhoX=0.5 garrote  est 0.404 (0.013)  PE 2.649  FP 2.81 FN 0.00 size 12.8  max sweeps 872 capped 0  [190s]
+rhoX=0.5 op       est 0.301 (0.010)  PE 2.550  FP 2.10 FN 0.00 size 12.1  max sweeps 1000 capped 3  [309s]
+
+[exited with code 0]
